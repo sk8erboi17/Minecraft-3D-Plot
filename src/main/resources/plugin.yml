@@ -1,0 +1,5 @@
+name: minecraft-meteor
+version: '0.1'
+main: it.sk8erboi.minecraftmeteor.MinecraftMeteor
+commands:
+  3d:
