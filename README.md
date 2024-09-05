@@ -8,7 +8,6 @@
 </p>
 <p>Useful resource:</p>
    <p> - Vector Programming for Beginners: https://www.spigotmc.org/wiki/vector-programming-for-beginners/</p>
-   <p> - This is my animation made by using these concepts:  https://youtu.be/l2LSPbkz4so</p> 
 
 ### Some example
 <p>This is a 10 20 15 line graph.</p>
