@@ -13,8 +13,9 @@
 ### Some example
 <p>This is a 10 20 15 line graph.</p>
 
-![2024-09-04_03 23 20](https://github.com/user-attachments/assets/beaaf69e-2145-48c8-8aab-ec29befea453)
-
+<div>
+<img src="https://i.ibb.co/W3cPCTn/2024-09-04-03-23-20.png" alt="image" border="0">
+</div>
 
 <strong> See the video:</strong> [Plotting lines](https://youtu.be/xvfJ4-Ceu64)
 
